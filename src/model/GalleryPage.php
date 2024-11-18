@@ -50,7 +50,7 @@ class GalleryPage extends GalleryHub
      */
     private static $description = 'Display a "gallery" of images';
 
-    private static $icon = "resources/i-lateral/silverstripe-gallery/client/dist/images/gallery.png";
+    private static $icon = "_resources/vendor/i-lateral/silverstripe-gallery/client/dist/images/gallery.png";
 
     private static $table_name = "GalleryPage";
 
